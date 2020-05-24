@@ -1,0 +1,88 @@
+.navi{
+    background: #292929;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    position: sticky;
+}
+.logo{
+float: right;
+padding-right: 80px;
+}
+#profilePic{
+    height: auto;
+    width: 250px;
+}
+.leftsideHero{
+    float: left;
+    max-width: 498px;
+    padding-left: 250px;
+    padding-top: 80px;
+}
+.rightsideHero{
+    float: left;
+    padding-left: 90px;
+    padding-top: 44px;
+}
+.hero{
+    background-color: #292929;
+    height: 600px;
+    padding-top: 90px;
+
+}
+h1{
+    color: white;
+    font-family: Helvetica;
+}
+p{
+    color: white;
+    font-family: helvetica;
+    font-size: 12px;
+}
+
+
+
+.button{
+padding: 0 10px;
+padding-top: 10px;
+font-family: Helvetica;
+text-decoration: none;
+color: white;
+font-size: 12px;
+} 
+.resume{
+    padding: 15px 40px;
+    border-radius: 3px;
+    border: 0;
+}
+button{
+    background-color: #EA4741;
+    color: white;
+    padding-left: 30px;
+    margin-left: 40px;
+}
+.footer{
+    height: 200px;
+    background-color: #292929;
+}
+h2{
+    padding-top: 50px;
+text-align: center;
+color: white;
+font-family: Helvetica;
+}
+.contact{
+    text-align: center;
+  
+}
+.arrow{
+    float: right;
+}
+.backtotop{
+    float: right;
+    color: #EA4741;
+}
+.btt{
+    padding-right: 30px;
+    padding-top: px;
+}
